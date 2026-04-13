@@ -1,8 +1,8 @@
 # SEO/GEO Blog Sources Collector
 
-**Automated pre-writing research for SEO & GEO-optimized blog content** 鈥� powered by [Sai](https://www.sai.work/), an autonomous AI agent.
+**Automated pre-writing research for SEO & GEO-optimized blog content** -- powered by [Sai](https://www.sai.work/), an autonomous AI agent.
 
-Give Sai a keyword. It researches 10+ platforms, collects competitive intelligence, user questions, expert quotes, hard data, and social trend signals 鈥� then outputs everything to a structured Google Sheet ready for the writing phase.
+Give Sai a keyword. It researches 10+ platforms, collects competitive intelligence, user questions, expert quotes, hard data, and social trend signals -- then outputs everything to a structured Google Sheet ready for the writing phase.
 
 ---
 
@@ -20,12 +20,12 @@ This skill automates the **entire research pipeline** that happens before writin
 - Scrapes **AnswerSocrates** for question clusters organized by type (what, how, why, which, can)
 - Expands **Google PAA** (People Also Ask) boxes from SERPs
 - Searches **Reddit** for authentic user pain points and discussions
-- Outputs 15鈥�20 real questions that become H2 heading candidates for your article
+- Outputs 15--20 real questions that become H2 heading candidates for your article
 
 ### Module 3: Competitor Article Analysis
 - Opens top 5 organic Google results for your keyword
 - Extracts: word count, H2 headings, products covered, comparison tables, FAQ sections, methodology
-- Identifies content gaps 鈥� what no competitor covers (your opportunity)
+- Identifies content gaps -- what no competitor covers (your opportunity)
 - Maps the common format patterns across top-ranking articles
 
 ### Module 4: Data & Statistics Harvesting
@@ -38,11 +38,11 @@ This skill automates the **entire research pipeline** that happens before writin
 - Searches **Twitter/X** for expert opinions from verified/high-follower accounts
 - Searches **LinkedIn** for thought leader posts and insights
 - Records: expert name, credentials, verbatim quote, and source link
-- Targets 5鈥�8 quotable experts per article
+- Targets 5--8 quotable experts per article
 
 ### Module 6: Social Media Trend Scan
 - Finds viral posts on **Twitter/X** related to the keyword (sorted by engagement)
-- Analyzes top **YouTube** videos 鈥� title patterns, view counts, publish dates
+- Analyzes top **YouTube** videos -- title patterns, view counts, publish dates
 - Surfaces trending **Reddit** discussions and audience sentiment
 - Extracts viral hook formulas and content angles that perform
 
@@ -72,9 +72,9 @@ All research is exported to a **structured Google Sheet** with the following col
 | Platform | What Sai Collects |
 |---|---|
 | Google Search | SERP analysis, competitor articles, PAA questions |
-| ChatGPT | AI visibility 鈥� what does ChatGPT cite for this keyword? |
-| Perplexity | AI visibility 鈥� what does Perplexity cite? |
-| Google AI Overview | AI visibility 鈥� what appears in Google's AI panel? |
+| ChatGPT | AI visibility -- what does ChatGPT cite for this keyword? |
+| Perplexity | AI visibility -- what does Perplexity cite? |
+| Google AI Overview | AI visibility -- what appears in Google's AI panel? |
 | AnswerSocrates | User question clusters by type |
 | Twitter/X | Viral content, expert opinions, trend signals |
 | Reddit | User pain points, authentic discussions, sentiment |
@@ -103,7 +103,7 @@ Sai will autonomously:
 ## Setup & Requirements
 
 ### Prerequisites
-- **Sai** 鈥� an autonomous AI agent by [Simular](https://www.sai.work/)
+- **Sai** -- an autonomous AI agent by [Simular](https://www.sai.work/)
 - A Google account (for Sheets output)
 
 ### Getting Started
@@ -117,9 +117,9 @@ Sai will autonomously:
 4. Sai runs all 6 modules autonomously and outputs results to your Google Sheet
 
 ### Safety
-- **Read-only on all platforms** 鈥� Sai does not post, comment, or engage on any social platform
-- **Rate-limited** 鈥� maximum 20 Google searches and 10 social media searches per platform per session
-- **Respects robots.txt** 鈥� does not scrape blocked pages
+- **Read-only on all platforms** -- Sai does not post, comment, or engage on any social platform
+- **Rate-limited** -- maximum 20 Google searches and 10 social media searches per platform per session
+- **Respects robots.txt** -- does not scrape blocked pages
 
 ---
 
