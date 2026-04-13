@@ -13,7 +13,7 @@ This skill automates the **entire research pipeline** that happens before writin
 ### Module 1: AI Visibility Audit
 - Queries **ChatGPT**, **Perplexity**, and **Google AI Overview** with your target keyword
 - Records which products/brands each AI engine cites
-- Identifies citation gaps 鈥� what your product does that nobody mentions
+- Identifies citation gaps -- what your product does that nobody mentions
 - Determines if your brand is already visible in AI-generated answers
 
 ### Module 2: User Question Mining
@@ -31,7 +31,7 @@ This skill automates the **entire research pipeline** that happens before writin
 ### Module 4: Data & Statistics Harvesting
 - Searches for industry reports, market data, and statistics related to your keyword
 - Collects hard numbers with full source attribution
-- Finds recent (2024鈥�2026) data points to strengthen article authority
+- Finds recent (2024--2026) data points to strengthen article authority
 - Provides citable statistics with original source URLs
 
 ### Module 5: Expert Quote Collection
